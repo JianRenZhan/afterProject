@@ -1,0 +1,3 @@
+com\haily\ZuulApplication.class
+com\haily\config\GlobalCorsConfig.class
+com\haily\config\WebSecurityConfig.class

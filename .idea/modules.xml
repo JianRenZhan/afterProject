@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/The backend development.iml" filepath="$PROJECT_DIR$/.idea/The backend development.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-pay/pay-interface/pay-interface.iml" filepath="$PROJECT_DIR$/springcloud-pay/pay-interface/pay-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-pay/pay-service/pay-service.iml" filepath="$PROJECT_DIR$/springcloud-pay/pay-service/pay-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-server/springCloud-eureka-server.iml" filepath="$PROJECT_DIR$/springcloud-eureka-server/springCloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-shiro/springCloud-shiro.iml" filepath="$PROJECT_DIR$/springcloud-shiro/springCloud-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-common/springcloud-common.iml" filepath="$PROJECT_DIR$/springcloud-common/springcloud-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-pay/springcloud-pay.iml" filepath="$PROJECT_DIR$/springcloud-pay/springcloud-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-zuul-server/springcloud-zuul-server.iml" filepath="$PROJECT_DIR$/springcloud-zuul-server/springcloud-zuul-server.iml" />
+    </modules>
+  </component>
+</project>

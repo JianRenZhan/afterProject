@@ -1,0 +1,17 @@
+com\pay\pojo\OrdersItem.class
+entity\PageResult.class
+com\pay\pojo\TbOrder.class
+com\pay\pojo\TbItem.class
+com\pay\pojogroup\Specification.class
+entity\Result.class
+com\pay\pojo\TbSpecificationOption.class
+com\pay\pojo\Orders.class
+com\pay\pojo\TbGoods.class
+com\pay\pojo\TbPayLog.class
+com\pay\pojo\TbSpecification.class
+com\pay\pojo\TbItemCat.class
+com\pay\pojo\TbOrderItem.class
+com\pay\pojo\TbGoodsDesc.class
+com\pay\pojogroup\Cart.class
+com\pay\pojo\Goods.class
+com\pay\pojo\orderList.class

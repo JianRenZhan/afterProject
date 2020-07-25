@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pay-interface" />
+        <module name="pay-service" />
+        <module name="springcloud-common" />
+        <module name="springcloud-eureka-client" />
+        <module name="springcloud-eureka-server" />
+        <module name="springCloud-eureka-server" />
+        <module name="springCloud-shiro" />
+        <module name="springcloud-zuul-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pay-interface" target="1.8" />
+      <module name="pay-service" target="1.8" />
+      <module name="pay-web" target="1.8" />
+      <module name="springcloud-common" target="1.8" />
+      <module name="springCloud-eureka-server" target="1.8" />
+      <module name="springcloud-pay" target="1.8" />
+      <module name="springCloud-shiro" target="1.8" />
+      <module name="springcloud-zuul-server" target="1.8" />
+      <module name="The backend development" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="The backend development" options="" />
+      <module name="springCloud-eureka-server" options="" />
+      <module name="springCloud-shiro" options="" />
+      <module name="springcloud-eureka-client" options="-parameters" />
+      <module name="springcloud-eureka-server" options="-parameters" />
+      <module name="springcloud-zuul-server" options="" />
+    </option>
+  </component>
+</project>

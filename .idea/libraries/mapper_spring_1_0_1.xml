@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mapper-spring-1.0.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper-spring/1.0.1/mapper-spring-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
